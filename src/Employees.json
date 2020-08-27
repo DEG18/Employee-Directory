@@ -1,0 +1,119 @@
+[
+  {
+    "id": 1,
+    "name": "SpongeBob",
+    "image":
+      "https://vignette.wikia.nocookie.net/spongebobgalaxy/images/0/07/SpongeBob_SquarePants.png/revision/latest?cb=20171228024014",
+    "phone": "516-978-1089",
+    "dob": "08/25/1986",
+    "email":"Spongebob@sponge.com"
+  },
+  {
+    "id": 2,
+    "name": "Mr. Krabs",
+    "image":
+      "https://vignette3.wikia.nocookie.net/vsbattles/images/8/80/Mr._Krabs.png/revision/latest?cb=20150919162131",
+    "phone": "212-559-3769",
+    "dob": "12/03/1995",
+    "email":"Krabs@sponge.com"
+  },
+  {
+    "id": 3,
+    "name": "Squidward",
+    "image":
+      "https://vignette2.wikia.nocookie.net/fictionalcharacters/images/a/ac/Squidward.png/revision/latest?cb=20131121012626",
+    "phone": "718-469-8523",
+    "dob": "9/25/1976",
+    "email":"Squidward@sponge.com"
+  },
+  {
+    "id": 4,
+    "name": "Patrick Star",
+    "image":
+      "https://upload.wikimedia.org/wikipedia/en/thumb/3/33/Patrick_Star.svg/1200px-Patrick_Star.svg.png",
+    "phone": "718-469-8523",
+    "dob": "05/01/1999",
+    "email":"Patrickstar@sponge.com"
+  },
+  {
+    "id": 5,
+    "name": "Sheldon J. Plankton",
+    "image":
+      "https://vignette.wikia.nocookie.net/cartoons/images/e/e6/Sheldon_j._plankton.jpg/revision/latest/scale-to-width-down/340?cb=20150619175857",
+    "phone": "719-303-9988",
+    "dob": "05/05/1999",
+    "email":"Sheldonplankton@sponge.com"
+  },
+  {
+    "id": 6,
+    "name": "Gary",
+    "image":
+      "https://pbs.twimg.com/profile_images/898017341610393600/LJyqzC4-_400x400.jpg",
+    "phone": "796-555-6363",
+    "dob": "05/09/1999",
+    "email":"Gary@sponge.com"
+  },
+  {
+    "id": 7,
+    "name": "Sandy Cheeks",
+    "image":
+      "https://upload.wikimedia.org/wikipedia/en/thumb/a/a0/Sandy_Cheeks.svg/1200px-Sandy_Cheeks.svg.png",
+    "phone": "646-328-9077",
+    "dob": "05/15/1999",
+    "email":"Sandycheeks@sponge.com"
+  },
+  {
+    "id": 8,
+    "name": "Felonious Gru",
+    "image":
+      "https://fanfics.me/images/fandoms_heroes/1088-1529858556.jpg",
+    "phone": "716-933-8054",
+    "dob": "05/15/2000",
+    "email":"Feloniousgru@minions.com"
+  },
+  {
+    "id": 9,
+    "name": "Scarlett Overkill",
+    "image":
+      "https://vignette.wikia.nocookie.net/evilbabes/images/3/32/Scarlet_hair_makeup.jpg/revision/latest/scale-to-width-down/340?cb=20180602162116",
+    "phone": "716-933-8054",
+    "dob": "8/19/2003",
+    "email":"Scarlettoverkill@minions.com"
+  },
+  {
+    "id": 10,
+    "name": "Walter Jr.",
+    "image":
+      "https://vignette.wikia.nocookie.net/p__/images/e/eb/7ACF414C-FAEF-401D-A96A-063721E0C0C2.jpeg/revision/latest?cb=20181001104608&path-prefix=protagonist",
+    "phone": "909-685-3216",
+    "dob": "04/18/2005",
+    "email":"Walter@minions.com"
+  },
+  {
+    "id": 11,
+    "name": "Kevin Minion",
+    "image":
+      "https://wallpaperaccess.com/full/3087299.png",
+    "phone": "828-649-1000",
+    "dob": "8/05/2008",
+    "email":"Kevin@minions.com"
+  },
+  {
+    "id": 12,
+    "name": "BOB MINIONS",
+    "image":
+      "https://cjmart.jp/en/upload/save_image/0126_190824_mp4otl_y_2.jpg",
+    "phone": "646-908-7456",
+    "dob": "10/07/2008",
+    "email":"Bob@minions.com"
+  },
+  {
+    "id": 13,
+    "name": "DAVE MINIONS",
+    "image":
+      "https://cjmart.jp/en/upload/save_image/0128_190824_mp4otl_y_2.jpg",
+    "phone": "646-908-7456",
+    "dob": "10/07/2008",
+    "email":"Dave@minions.com"
+  }
+]
