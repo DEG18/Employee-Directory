@@ -1,6 +1,4 @@
 import React from "react";
-import "../styles/Employee.css";
-
 
 function Employee(props) { 
     return (
