@@ -4,7 +4,9 @@
 [![License:MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 - Link to
-  [Heroku ](https://employeedirectorydeg.herokuapp.com/)
+  [Heroku ](https://employeedirectorydeg.herokuapp.com/) 
+  or 
+  [Heroku backup](https://employeedirectorydeg.herokuapp.com/static/js/2.8e1b47c6.chunk.js.map)
   and
   [GitHub ](https://github.com/DEG18/Employee-Directory)
 
